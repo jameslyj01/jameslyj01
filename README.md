@@ -1,8 +1,7 @@
 - 👋 Hi, I’m James
 - 👀 I’m interested in programming wow what a surprise.
 - 🌱 I’m currently learning telegram bot API
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me, just shoot me a message :)
 
 <!---
 jameslyj01/jameslyj01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
