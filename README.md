@@ -1,6 +1,4 @@
 - 👋 Hi, I’m James
-- 👀 I’m interested in programming wow what a surprise.
-- 🌱 I’m currently learning telegram bot API
 - 📫 How to reach me, just shoot me a message :)
 
 <!---
